@@ -17,7 +17,7 @@ import (
 	"errors"
 	"regexp"
 
-	"github.com/awslabs/amazon-ecr-credential-helper/ecr-login/api"
+	"github.com/dpupaza/amazon-ecr-credential-helper/ecr-login/api"
 	log "github.com/cihub/seelog"
 	"github.com/docker/docker-credential-helpers/credentials"
 )

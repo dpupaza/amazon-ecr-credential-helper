@@ -23,7 +23,7 @@ import (
 	"github.com/aws/aws-sdk-go/aws/credentials"
 	"github.com/aws/aws-sdk-go/aws/session"
 	"github.com/aws/aws-sdk-go/service/ecr"
-	"github.com/awslabs/amazon-ecr-credential-helper/ecr-login/cache"
+	"github.com/dpupaza/amazon-ecr-credential-helper/ecr-login/cache"
 	"github.com/mitchellh/go-homedir"
 
 	log "github.com/cihub/seelog"

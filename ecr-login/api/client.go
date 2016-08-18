@@ -22,7 +22,7 @@ import (
 	"github.com/aws/aws-sdk-go/aws"
 	"github.com/aws/aws-sdk-go/service/ecr"
 	"github.com/aws/aws-sdk-go/service/ecr/ecriface"
-	"github.com/awslabs/amazon-ecr-credential-helper/ecr-login/cache"
+	"github.com/dpupaza/amazon-ecr-credential-helper/ecr-login/cache"
 	log "github.com/cihub/seelog"
 )
 

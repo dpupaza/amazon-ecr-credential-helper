@@ -17,7 +17,7 @@
 package mock_api
 
 import (
-	api "github.com/awslabs/amazon-ecr-credential-helper/ecr-login/api"
+	api "github.com/dpupaza/amazon-ecr-credential-helper/ecr-login/api"
 	gomock "github.com/golang/mock/gomock"
 )
 

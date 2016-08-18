@@ -17,7 +17,7 @@ import (
 	"errors"
 	"testing"
 
-	"github.com/awslabs/amazon-ecr-credential-helper/ecr-login/mocks"
+	"github.com/dpupaza/amazon-ecr-credential-helper/ecr-login/mocks"
 	"github.com/docker/docker-credential-helpers/credentials"
 	"github.com/golang/mock/gomock"
 	"github.com/stretchr/testify/assert"

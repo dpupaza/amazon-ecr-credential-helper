@@ -1,5 +1,5 @@
 {
-	"ImportPath": "github.com/awslabs/amazon-ecr-credential-helper/ecr-login",
+	"ImportPath": "github.com/dpupaza/amazon-ecr-credential-helper/ecr-login",
 	"GoVersion": "go1.6",
 	"GodepVersion": "v60",
 	"Packages": [
